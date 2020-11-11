@@ -84,7 +84,7 @@ Ext.onReady(function(){
 			}
 		],
 		
-		height: 200,
+		height: 250,
 		width: 1365,
 		renderTo: Ext.getBody() //se pega al body
 	});
