@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Horario con Sencha</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="../../jslib/theme-classic/resources/theme-classic-all.css">
+        <script type="text/javascript" src="../../jslib/ext-all.js"></script>
+        <script type="text/javascript" src="../../jslib/theme-triton/theme-classic.js"></script>
+    </head>
+    <body style= "background-color:#4BA9C1;">
+        <header id="header" style= "background-color:#C7C7C7;">
+            <font face="Comic Sans MS">
+            <h1 align="center" style="color:#416CA7">Horario</h1>
+            <h3 align="center" style="color:#416CA7">Solis Lagunes Oscar Saul</h3>
+        </header><!-- /header -->
+        <div id="tabla">
+           <center><script type="text/javascript" src="js/grid1.js"></script></center> 
+        </div>
+
+    </body>
+</html>
